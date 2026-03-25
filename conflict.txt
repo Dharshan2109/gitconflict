@@ -1,1 +1,1 @@
-City:Bangalor
+city: Banglor
